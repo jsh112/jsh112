@@ -2,6 +2,8 @@
 
 ![Jang se hwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsh112&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsh112&layout=compact)
+
 - 👋 Hi, I’m @jsh112
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
