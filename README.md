@@ -3,6 +3,13 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsh112&layout=compact)
 
 [![Jang se hwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsh112)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/jsh112"
+  width="600"
+  height="300"
+/>
+</a>
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jshkr1120)](https://solved.ac/jshkr1120)
