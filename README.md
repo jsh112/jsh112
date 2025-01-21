@@ -11,6 +11,10 @@
 />
 </a>
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/guilds/{INUEMBEDDED}/draw"/>
+</a>
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jshkr1120)](https://solved.ac/jshkr1120)
 
