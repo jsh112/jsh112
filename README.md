@@ -3,13 +3,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsh112&langs_count=10&layout=compact&theme=radical)](https://github.com/jsh112/jsh112)﻿
 
 [![Jang se hwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsh112)](https://github.com/anuraghazra/github-readme-stats)
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/jsh112"
-  width="600"
-  height="300"
-/>
-</a>
 <a href="https://www.gitanimals.org/">
       <img
         src="https://render.gitanimals.org/guilds/669361584026746551/draw"
@@ -17,7 +10,7 @@
         height="300"
         alt="gitanimals"
       />
-    </a>
+</a>
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jshkr1120)](https://solved.ac/jshkr1120)
